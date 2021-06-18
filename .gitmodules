@@ -4,3 +4,6 @@
 [submodule "src/my_robot"]
 	path = src/my_robot
 	url = https://github.com/daniel-m-campos/my_robot.git
+[submodule "src/teleop_twist_keyboard"]
+	path = src/teleop_twist_keyboard
+	url = https://github.com/ros-teleop/teleop_twist_keyboard
