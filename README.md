@@ -16,7 +16,7 @@ $ cd <path-to-repo-workspace>/map-my-world/src
 $ cd src
 $ catkin_init_workspace
 $ cd ..
-$ catkin_make_isolated
+$ catkin_make
 ```
 
 ### Launching
