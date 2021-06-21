@@ -13,3 +13,5 @@ else
 	export CC=gcc-9
 	export CXX=g++-9
 fi
+
+source download_data.sh
