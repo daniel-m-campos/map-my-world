@@ -2,6 +2,8 @@
 
 ![](img/graph_view.png)
 
+![](img/occupancy_grid.png)
+
 ### Install Requirements
 This project requires `gcc>=9` due to the use of `C++17`.
 ```sh
