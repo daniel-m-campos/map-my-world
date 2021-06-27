@@ -1,8 +1,11 @@
 # Map-My-World Project
 
-![](img/graph_view.png)
+![](img/global_loop.png)
 
 ![](img/occupancy_grid.png)
+
+![](img/3D_map.png)
+
 
 ### Install Requirements
 This project requires `gcc>=9` due to the use of `C++17`.
